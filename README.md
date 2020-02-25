@@ -9,3 +9,9 @@ It should allow the creation of a dynamic pomodoro routine.
 - The choice of time intervals should be made through a drag and drop system.
 
 - The user should be able to change the default time interval duration.
+
+# NF Requirements
+
+- The browser local storage shold be used to save user preferences.
+
+- The project should run on github pages platform through a React bundle.
